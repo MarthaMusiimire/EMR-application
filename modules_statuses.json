@@ -1,0 +1,13 @@
+{
+    "Patient": true,
+    "User": true,
+    "Lab": true,
+    "Pharmacy": true,
+    "Appointment": true,
+    "MedicalRecords": true,
+    "Diagnosis": true,
+    "Treatment": true,
+    "Consultation": true,
+    "Clinic": true,
+    "Home": true
+}
